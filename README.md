@@ -54,10 +54,6 @@ pip install -r requirements.txt
 python main.py
 ⚠️ Python 3.12 ou superior é recomendado.
 
-📁 Estrutura do Projeto
-bash
-Copiar
-Editar
 MEOWsint/
 ├── consultas/
 │   ├── cep.py
@@ -76,6 +72,7 @@ MEOWsint/
 │   └── menu.py
 ├── main.py
 └── requirements.txt
+
 🧪 Exemplos de Uso
 bash
 Copiar
